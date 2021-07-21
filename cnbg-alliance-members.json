@@ -1,0 +1,33 @@
+{
+    "adapools": {
+        "about": {
+            "name": "Climate Neutral Blockchain Group",
+            "description_short": "TODO",
+            "description_long": "TODO
+            "website": "https//climateneutralcardano.org/",
+            "url_png_icon_64x64": "TODO
+            "url_png_logo": "TODO
+            "social": {
+                "twitter_handle": "",
+                "telegram_handle": "",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "",
+                "github_handle": "Climate-Neutral-Blockchain-Group"
+            },
+            "types": {
+                "charity": false,
+                "business": false,
+                "beneficial": false
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
+                "member_since": "2021-07-21,
+                "name": "VITAL (Responsible Staking)"
+            }
+        }
+    }
+}
