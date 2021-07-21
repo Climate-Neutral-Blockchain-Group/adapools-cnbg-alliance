@@ -20,4 +20,4 @@ Registration JSON Example.
 ```
 
 If you want to play an active role in this alliance, please join our telegram group:
-TODO: Add Group Link
+https://t.me/joinchat/pOh5Gm1ZodU1MzEy
