@@ -2,8 +2,8 @@
     "adapools": {
         "about": {
             "name": "Climate Neutral Blockchain Group",
-            "description_short": "TODO",
-            "description_long": "TODO",
+            "description_short": "Make Cardano Blockchain the most climate neutral Blockchain technology of the world",
+            "description_long": "Members of this group have committed to 1. use only 100% renewable energy for the operation of their stakepool servers 2. donate from their pool fees to climate protection activities or compensation measures. For details see the websites of these pools. We are working together in CNBG as an alliance of climate neutral pools to make Cardano Blockchain the most climate neutral Blockchain technology of the world. Stake with CNBG pools! If you have questions or want to add your pool, contact us on Telegram (@CO2Pool), Discord(#8811), Twitter(@Co2Pool) or email (info@co2pool.de)",
             "website": "https//climateneutralcardano.org/",
             "url_png_icon_64x64": "TODO", 
             "url_png_logo": "TODO",
