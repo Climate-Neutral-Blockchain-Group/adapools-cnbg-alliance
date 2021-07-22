@@ -5,7 +5,8 @@ In this repo stake pool operators can register to become a member of the Climate
 By submitting a pull request you agree that all the submited information will be made publicly available to everyone.
 
 Also, by submitting you agree that you fit the critera of the CNBG.  
-TODO: Write down Rules
+1. use only 100% renewable energy for the operation of their stakepool servers 
+2. donate from their pool fees to climate protection activities or compensation measures
 
 To register, simply create a pull request that adds your pool name and id to the cnbg-alliance-members.json file.
 
