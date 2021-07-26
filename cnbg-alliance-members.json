@@ -32,18 +32,33 @@
                 "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
                 "member_since": "2021-07-21",
                 "name": "CO2P (CO2-Pool)"
-            }
+            },
+            "1": {
+                "pool_id": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0",
+                "member_since": "2021-07-21",
+                "name": "ECO (Eco Pool)"
+            },
             "2": {
+                "pool_id": "aa3d1049e013e84d811e684b63378790fdce0b7a16a71938c1602164",
+                "member_since": "2021-07-21",
+                "name": "TWIN1 (twin staking)"
+            },
+            "3": {
+                "pool_id": "5b60373e718a3647ec57f610b9942f91286748ddeaa0ad226acb927b",
+                "member_since": "2021-07-21",
+                "name": "CAFE (Cardano Cafe)"
+            },            
+            "4": {
                 "pool_id": "3116c834a09b0060aef7284f63d3275456364e3309b3c19ec328af60",
                 "member_since": "2021-07-21",
                 "name": "ADV (ADAvault)"
-            }
-            "3": {
+            },
+            "5": {
                 "pool_id": "3b3327c0a885ba7c1ebeec8b44158aab79c32148d45b4c701344cd97",
                 "member_since": "2021-07-21",
                 "name": "ADV2 (ADAvault)"
-            }
-            "4": {
+            },
+            "6": {
                 "pool_id": "edfa208d441511f9595ba80e8f3a7b07b6a80cbc9dda9d8e9d1dc039",
                 "member_since": "2021-07-21",
                 "name": "ADV3 (ADAvault)"
