@@ -27,6 +27,11 @@
                 "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
                 "member_since": "2021-07-21",
                 "name": "VITAL (Responsible Staking)"
+            },
+            "1": {
+                "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+                "member_since": "2021-07-21",
+                "name": "CO2P (CO2-Pool)"
             }
         }
     }
