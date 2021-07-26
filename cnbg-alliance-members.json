@@ -52,17 +52,7 @@
                 "pool_id": "3116c834a09b0060aef7284f63d3275456364e3309b3c19ec328af60",
                 "member_since": "2021-07-21",
                 "name": "ADV (ADAvault)"
-            },
-            "5": {
-                "pool_id": "3b3327c0a885ba7c1ebeec8b44158aab79c32148d45b4c701344cd97",
-                "member_since": "2021-07-21",
-                "name": "ADV2 (ADAvault)"
-            },
-            "6": {
-                "pool_id": "edfa208d441511f9595ba80e8f3a7b07b6a80cbc9dda9d8e9d1dc039",
-                "member_since": "2021-07-21",
-                "name": "ADV3 (ADAvault)"
-            }    
+            }
         }
     }
 }
