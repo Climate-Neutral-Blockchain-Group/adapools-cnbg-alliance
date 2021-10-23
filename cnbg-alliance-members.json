@@ -52,6 +52,11 @@
                 "pool_id": "3116c834a09b0060aef7284f63d3275456364e3309b3c19ec328af60",
                 "member_since": "2021-07-21",
                 "name": "ADV (ADAvault)"
+            },
+            "5": {
+                "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+                "member_since": "2021-10-23",
+                "name": "ST4NA (Stake for Nature)"
             }
         }
     }
