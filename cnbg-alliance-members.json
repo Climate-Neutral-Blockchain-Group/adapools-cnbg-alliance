@@ -53,7 +53,12 @@
                 "member_since": "2021-07-21",
                 "name": "ADV (ADAvault)"
             },
-            "5": {
+            "6": {
+                "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+                "member_since": "2021-09-12",
+                "name": "GAIA (GAIA Stake Pool)"
+            },
+            "7": {
                 "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
                 "member_since": "2021-10-23",
                 "name": "ST4NA (Stake for Nature)"
