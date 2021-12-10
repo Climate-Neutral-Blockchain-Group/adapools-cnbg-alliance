@@ -72,6 +72,11 @@
                 "pool_id": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
                 "member_since": "2021-04-02",
                 "name": "ARM1 (ArmADA StakePool)"
+            },
+            "10": {
+                "pool_id": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6",
+                "member_since": "2021-10-01",
+                "name": "GRANA (GranADA Staking Pool)"
             }
         }
     }
